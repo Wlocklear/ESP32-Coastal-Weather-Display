@@ -19,3 +19,5 @@ include/secrets.h
 .idea/
 .DS_Store
 Thumbs.db
+
+scratch/
